@@ -7096,9 +7096,9 @@ vector-quantize-pytorch==1.21.2 \
     --hash=sha256:101551fdf077c38a996cd65666bbeb299ed2f3246682a51863cee1f7385e0755 \
     --hash=sha256:df4e7059c0ac633c032d2312fb73cc87a52a7c912264e59e4e08258f26754eee
     # via -r requirements/test/cuda.in
-virtualenv==21.14.0 \
-    --hash=sha256:c345b0b744c70e7df7e33be20ea1ba5309db1cca3c98eacc10afb0276cf99356 \
-    --hash=sha256:c3c0dbdf7259316edbb993020206ee7f7664a33063292dcc4a618e4c04cdf450
+virtualenv==21.14.13 \
+    --hash=sha256:5fbb04138a4861580b78ba9110d529a26bc48fcc93c8ec36bc0202eeed96a788 \
+    --hash=sha256:de5307ba4b9a0001d9c8ea02832d38f63ca432880f416c1bface61c4323fd905
     # via
     #   -r requirements/test/cuda.in
     #   ray
